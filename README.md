@@ -17,7 +17,7 @@ I’m using this repo to strengthen my problem-solving skills with classic codin
 - **char-frequency.py** → Count frequency of characters in a string (dictionary usage)  
 - **countVowels.py** → Count number of vowels in a string  
 - **prime.py** → Check if a number is prime  
-- **max.py** → Find max profit in stock trading problem (Buy & Sell Stock)  
+- **max.py** → Find max 
 - **two-sum.py** → Two-sum problem using hashmap for efficient lookup  
 
 ---

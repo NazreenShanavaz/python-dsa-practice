@@ -42,7 +42,7 @@ I’m using this repo to strengthen my problem-solving skills with classic codin
 
 - **Math Problems**
   - Prime Check
-  - Max Profit from Stocks
+  - Max value
 
 ---
 
